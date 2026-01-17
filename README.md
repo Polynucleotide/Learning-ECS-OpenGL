@@ -14,7 +14,7 @@ It is my first time learning ECS and OpenGL, so the code is experimental and mea
 
 ## Dependencies
 
-This project uses some third-party headers and libraries:
+This project uses some third-party headers and libraries that I have not included:
 
 ```text
 Extern/
